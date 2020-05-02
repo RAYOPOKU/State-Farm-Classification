@@ -12,4 +12,4 @@ The assignment demonstrates:
 * Python proficiency
 * Basic data exploration
 * Statistical modelling
-* Validation techniques
+* Validation techniques.
